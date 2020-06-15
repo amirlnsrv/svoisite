@@ -1,0 +1,78 @@
+body{
+    background-image: url(ozero-issik-kul-3840x2160-kirgizstan-gori-16352.jpg);
+    background-size: cover;
+    font-family: helvetica;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.main a:hover{
+    color: gray;
+    font-size: 35px;
+}
+.main{
+    background-color: white;
+    height: 1000px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 50px;
+    border-radius: 5%;
+}
+.main li{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.mskee{
+    background-color: black;
+    height: 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 100px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: sans-serif;
+    color: black;
+}
+.mskee2{
+    background-color: black;
+    height: 2px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.mskee3 a{
+    margin-left: 2%;
+    color: white;
+    margin-left: 5%;
+ 
+
+}
+
+.mskee3{
+    background-color: black;
+    display: inline;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.mskee3 a:hover{
+    color: gray;
+}
+.footer{
+    background-color: black;
+    height: 100px;
+}
+.footer a{
+    color: white;
+}
+.footer p{
+    color: gray;
+    font-size: 30px;
+    
+}
